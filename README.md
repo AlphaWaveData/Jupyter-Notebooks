@@ -1,2 +1,2 @@
-# AlphaWaveData
-AlphaWaveData delivers APIs for financial data analysis.
+# AlphaWave Data
+AlphaWave Data delivers APIs for financial data analysis.
