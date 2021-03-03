@@ -1,0 +1,13 @@
+{
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "To calculate the Expected Risk Premium, we must first calculate the Market Rate of Return.  We can use the Capital Asset Pricing Model (CAPM) to determine the Market Rate of Return.\n",
+    "\n",
+    "$$r_m = r_f\\ +(\\beta*MRP)$$\",
+    "$r_m = Market\\ Rate\\ of\\ Return$\",
+    "$r_f = Risk-free\\ Rate$\",
+    "$\\beta = Beta$\",
+    "$MRP = Market\\ Risk\\ Premium$\"
+   ]
+  },
